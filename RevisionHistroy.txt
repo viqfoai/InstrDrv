@@ -1,1 +1,2 @@
-2019/2/13	增加对KEYSIGHT 34465的去支持
+2019/2/13	add support to KEYSIGHT 34465
+2019/7/24 add support to ITECH8811 in function DllSetLoad
